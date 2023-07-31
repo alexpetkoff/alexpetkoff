@@ -1,4 +1,3 @@
-![image](https://github.com/alexpetkoff/alexpetkoff/assets/132137247/5dd9e679-48f3-47a2-9bae-b12e3579c586)
 ## Hey there 👋
 - 👋 Hi, I’m Alexander Petkov and I am currently a student in Software University, Sofia, Bulgaria.
 - 🌱 I’m currently learning JavaScript and have intentions in learning Python afterwards!

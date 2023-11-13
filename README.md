@@ -15,7 +15,7 @@
 </div>
 
 ## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexpetkoff&theme=highcontrast&border_radius=4&card_width=490)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=alexpetkoff)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexpetkoff&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 

@@ -1,8 +1,11 @@
 ## Hey there 👋
-- 👋 Hi, I’m Alexander Petkov and I am currently a student in Software University, Sofia, Bulgaria.
+- 👋 Hi, I’m Alexander Petkov and I am currently working for Webrika.io in Pleven, Bulgaria as a Front-End Developer.
+<!---
 - 🌱 I’m currently learning JavaScript and have intentions in learning Python afterwards!
-- 📫 How to reach me? Email: iskander9207@icloud.com
-
+--->
+- 📫 How to reach me? </br>
+  Email: iskander9207@icloud.com </br>
+  LinkedIn: <a href="https://www.linkedin.com/in/aleksandar-petkov-b3589b1a9/">LinkedIn</a>
 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
